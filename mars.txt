@@ -1,2 +1,3 @@
 Mars is super red!
 What is the color of the earth?
+Git is usefiul for text files only!

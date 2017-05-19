@@ -1,1 +1,3 @@
 this is for pluto
+Tyring to figure out the branching method in git
+Stil trying to figure oot how to apply this in research
